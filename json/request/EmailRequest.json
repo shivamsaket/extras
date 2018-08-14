@@ -1,0 +1,13 @@
+{
+  "resource": "",
+  "path": "",
+  "httpMethod": "",
+  "headers": {
+    "ContentType": "application/json"
+  },
+  "queryStringParameters": {},
+  "pathParameters": {},
+  "requestContext": {},
+  "body": "{\"clientId\":\"murari\",\"subject\":\"Test Email Subject\",\"toEmailIds\":[\"murari.ideal@yahoo.com\"],\"emailParamMap\":{\"name\":\"Murari\",\"sender\":\"Sapient AWS POC Team\"}}",
+  "isBase64Encoded": false
+}
